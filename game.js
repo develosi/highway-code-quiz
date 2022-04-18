@@ -51,3 +51,8 @@ getNewQuestion = () => {
         localStorage.setItem('mostRecentScore', score);
         return window.location.assign('/end.html');
     }
+    questionCounter++;
+    const questionIndex = Math.floor(Math.random() * availableQuesions.length);
+    currentQuestion = availableQuesions[questionIndex];
+    question.innerHTML = currentQuestion.question;
+
