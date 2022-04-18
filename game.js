@@ -74,7 +74,7 @@ choices.forEach((choice) => {
         const selectedAnswer = selectedChoice.dataset['number'];
 
         const classToApply =
-            selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
+            selectedAnswer === currentQuestion.answer ? 'correct' : 'incorrect';
 
         if (classToApply === 'correct') {
             incrementScore(CORRECT_BONUS);
@@ -82,7 +82,10 @@ choices.forEach((choice) => {
 
         selectedChoice.parentElement.classList.add(classToApply);
 
-        getNewQuestion();
+        setTimeout(() => {
+            selectedChoice.parentElement.classList.remove(classToApply);
+            getNewQuestion();
+        }, 1000);
     });
 });
 
