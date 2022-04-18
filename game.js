@@ -5,11 +5,10 @@ let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
-let availableQuesions = [];
+let availableQuestions = [];
 
 // QUESTIONS
-
-[
+let questions = [
     {
         "question": "Test question 1, answer is 1",
         "choice1": "Correct",
@@ -27,11 +26,11 @@ let availableQuesions = [];
         "answer": 3
     },
     {
-        "question": "Wrong",
+        "question": "Test question 3, answer is 4",
         "choice1": "Wrong",
         "choice2": "Wrong",
         "choice3": "Wrong",
         "choice4": "Correct",
         "answer": 4
     }
-]
+];
