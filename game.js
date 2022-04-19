@@ -83,7 +83,6 @@ choices.forEach((choice) => {
         if (classToApply === 'correct') {
             incrementScore(CORRECT_BONUS);
         }
-        /*console.log(classToApply);*/
 
         selectedChoice.parentElement.classList.add(classToApply);
 
