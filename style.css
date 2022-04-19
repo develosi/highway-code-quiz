@@ -106,7 +106,7 @@ h3 {
     transform: none;
 }
 
-/* GAME SECTION STYLING */
+/* GAME SECTION */
 .choice-container {
     display: flex;
     margin-bottom: 0.5rem;
@@ -142,7 +142,6 @@ h3 {
 }
 
 /* HUD SECTION */
-
 #hud {
     display: flex;
     justify-content: space-between;
@@ -158,3 +157,5 @@ h3 {
     text-align: center;
     color: #f5a511;
 }
+
+/* END SECTION */
