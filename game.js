@@ -12,28 +12,28 @@ let availableQuestions = [];
 // QUESTIONS
 let questions = [
     {
-        question: "Test question 1, answer is 1",
-        choice1: "Correct",
-        choice2: "Wrong",
-        choice3: "Wrong",
-        choice4: "Wrong",
+        question: "At an incident, someone is suffering from severe burns. How could you help them?",
+        choice1: "Apply lotions to the injury",
+        choice2: "Burst any blisters",
+        choice3: "Remove anything sticking to the burns",
+        choice4: "Douse the burns with clean, cool water",
+        answer: 4
+    },
+    {
+        question: "You're approaching traffic lights and the red light is showing. What signal will show next?",
+        choice1: "Red and amber",
+        choice2: "Green alone",
+        choice3: "Amber alone",
+        choice4: "Green and amber",
         answer: 1
     },
     {
-        question: "Test question 2, answer is 3",
-        choice1: "Wrong",
-        choice2: "Wrong",
-        choice3: "Correct",
-        choice4: "Wrong",
+        question: "What should you do when you leave your car unattended for a few minutes?",
+        choice1: "Leave the engine running",
+        choice2: "Switch the engine off but leave the key in",
+        choice3: "Lock it and remove the key",
+        choice4: "Park near a traffic warden",
         answer: 3
-    },
-    {
-        question: "Test question 3, answer is 4",
-        choice1: "Wrong",
-        choice2: "Wrong",
-        choice3: "Wrong",
-        choice4: "Correct",
-        answer: 4
     }
 ];
 
