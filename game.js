@@ -107,6 +107,70 @@ let questions = [
         choice4: "Expect normal conditions",
         answer: 2
     },
+    {
+        question: "Why is it dangerous to travel too close to the vehicle ahead?",
+        choice1: "Your engine will overheat",
+        choice2: "Your mirrors will need adjusting",
+        choice3: "Your view of the road ahead will be restricted",
+        choice4: "Your satnav will be confused",
+        answer: 3
+    },
+    {
+        question: "Following a collision, a person has been injured. What would be a warning sign for shock?",
+        choice1: "Flushed complexion",
+        choice2: "Warm dry skin",
+        choice3: "Slow pulse",
+        choice4: "Rapid shallow breathing",
+        answer: 4
+    },
+    {
+        question: "You're driving on an open road in dry weather. What distance should you keep from the vehicle in front?",
+        choice1: "A two-second time gap",
+        choice2: "One car length",
+        choice3: "Two metres (6 feet 6 inches)",
+        choice4: "Two car lengths",
+        answer: 1
+    },
+    {
+        question: "What could you do to help injured people at an incident?",
+        choice1: "Keep them warm and comfortable",
+        choice2: "Give them something to eat",
+        choice3: "Keep them on the move by walking them around",
+        choice4: "Give them a warm drink",
+        answer: 1
+    },
+    {
+        question: "What should you do when you park at night on a road that has a 40 mph speed limit?",
+        choice1: "Park facing the traffic",
+        choice2: "Leave parking lights switched on",
+        choice3: "Leave dipped headlights switched on",
+        choice4: "Park near a street light",
+        answer: 2
+    },
+    {
+        question: "What's the main benefit of driving a four-wheel-drive vehicle?",
+        choice1: "Improved grip on the road",
+        choice2: "Lower fuel consumption",
+        choice3: "Shorter stopping distances",
+        choice4: "Improved passenger comfort",
+        answer: 1
+    },
+    {
+        question: "What should you do when you move off from behind a parked car?",
+        choice1: "Give a signal after moving off",
+        choice2: "Look around before moving off",
+        choice3: "Look around after moving off",
+        choice4: "Use the exterior mirrors only",
+        answer: 2
+    },
+    {
+        question: "How can you use your vehicle's engine to control your speed?",
+        choice1: "By changing to a lower gear",
+        choice2: "By selecting reverse gear",
+        choice3: "By changing to a higher gear",
+        choice4: "By selecting neutral",
+        answer: 1
+    },
 ];
 
 //CONSTANTS
