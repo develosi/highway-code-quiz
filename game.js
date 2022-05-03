@@ -67,6 +67,46 @@ let questions = [
         choice4: "When you're trying to save fuel",
         answer: 2
     },
+    {
+        question: "How should you dispose of a used vehicle battery?",
+        choice1: "Bury it in your garden",
+        choice2: "Put it in the dustbin",
+        choice3: "Take it to a local-authority disposal site",
+        choice4: "Leave it on waste land",
+        answer: 3
+    },
+    {
+        question: "You're following two cyclists as they approach a roundabout in the left-hand lane. Where would you expect the cyclists to go?",
+        choice1: "Left",
+        choice2: "Right",
+        choice3: "Any direction",
+        choice4: "Straight ahead",
+        answer: 3
+    },
+    {
+        question: "What should you do when you're passing loose sheep on the road?",
+        choice1: "Briefly sound your horn",
+        choice2: "Go very slowly",
+        choice3: "Pass quickly but quietly",
+        choice4: "Herd them to the side of the road",
+        answer: 2
+    },
+    {
+        question: "What colour are the reflective studs between a motorway and a slip road?",
+        choice1: "Amber",
+        choice2: "White",
+        choice3: "Green",
+        choice4: "Red",
+        answer: 3
+    },
+    {
+        question: "You're driving on the motorway in windy conditions. What should you do as you overtake a high-sided vehicle?",
+        choice1: "Increase your speed",
+        choice2: "Be wary of a sudden gust",
+        choice3: "Drive alongside very closely",
+        choice4: "Expect normal conditions",
+        answer: 2
+    },
 ];
 
 //CONSTANTS
