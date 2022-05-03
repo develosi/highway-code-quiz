@@ -34,7 +34,39 @@ let questions = [
         choice3: "Lock it and remove the key",
         choice4: "Park near a traffic warden",
         answer: 3
-    }
+    },
+    {
+        question: "You're driving towards a zebra crossing. What should you do if a person in a wheelchair is waiting to cross?",
+        choice1: "Continue on your way",
+        choice2: "Wave to the person to cross",
+        choice3: "Wave to the person to wait",
+        choice4: "Be prepared to stop",
+        answer: 4
+    },
+    {
+        question: "What part of the car does the law require you to keep in good condition?",
+        choice1: "The gearbox",
+        choice2: "The transmission",
+        choice3: "The door locks",
+        choice4: "The seat belts",
+        answer: 4
+    },
+    {
+        question: "You've been involved in an argument that's made you feel angry. What should you do before starting your journey?",
+        choice1: "Open a window",
+        choice2: "Turn on your radio",
+        choice3: "Have an alcoholic drink",
+        choice4: "Calm down",
+        answer: 4
+    },
+    {
+        question: "When would you use the right-hand lane on a three-lane motorway?",
+        choice1: "When you're turning right",
+        choice2: "When you're overtaking",
+        choice3: "When you're travelling above the speed limit",
+        choice4: "When you're trying to save fuel",
+        answer: 2
+    },
 ];
 
 //CONSTANTS
