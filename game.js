@@ -214,7 +214,7 @@ choices.forEach((choice) => {
         const selectedChoice = e.target;
         const selectedAnswer = selectedChoice.dataset['number'];
 
-        /* triple === cannot be used. == works only, aware of possible coercion */
+        // Triple === cannot be used for selectedAnswer. == works only, aware of possible coercion.
         const classToApply =
             selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
