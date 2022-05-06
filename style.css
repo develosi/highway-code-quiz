@@ -158,4 +158,16 @@ h3 {
     color: #f5a511;
 }
 
-/* END SECTION */
+/* WELCOME SECTION */
+
+.welcome-green {
+    color: #28a745;
+}
+
+.welcome-red {
+    color: #dc3545;
+}
+
+.welcome-orange {
+    color: #f5a511;
+}
