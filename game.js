@@ -1,3 +1,4 @@
+// GAME VARIABLES
 const question = document.getElementById('question');
 const choices = Array.from(document.getElementsByClassName('choice-text'));
 const questionCounterText = document.getElementById("questionCounter");
@@ -9,7 +10,7 @@ let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
-// QUESTIONS
+// GAME QUESTIONS
 let questions = [
     {
         question: "At an incident, someone is suffering from severe burns. How could you help them?",
@@ -173,7 +174,7 @@ let questions = [
     },
 ];
 
-//CONSTANTS
+//GAME FUNCTIONS
 const CORRECT_BONUS = 1;
 const MAX_QUESTIONS = 10;
 
