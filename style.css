@@ -1,3 +1,4 @@
+/* MAIN STYLES */
 html {
     background-color: #363636;
     font-size: 62.5%;
@@ -41,7 +42,7 @@ h3 {
     font-weight: bold;
 }
 
-/* UTILITIES */
+/* CONTAINER STYLING */
 .container {
     width: 100vw;
     height: 100vh;
@@ -141,7 +142,7 @@ h3 {
     background-color: #dc3545;
 }
 
-/* HUD SECTION */
+/* HUD GAME SECTION */
 #hud {
     display: flex;
     justify-content: space-between;
@@ -159,7 +160,6 @@ h3 {
 }
 
 /* WELCOME SECTION */
-
 .welcome-green {
     color: #28a745;
 }
@@ -177,13 +177,11 @@ h3 {
 }
 
 /* END SECTION */
-
 .score-number {
     color: #f5a511;
 }
 
-/* FOOTER */
-
+/* COPYRIGHT FOOTER */
 .copyright-text {
     color: #FFFFFF;
     font-weight: bold;
