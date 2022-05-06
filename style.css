@@ -175,3 +175,13 @@ h3 {
 .play-button {
     margin-top: 2rem;
 }
+
+/* FOOTER */
+
+.copyright-text {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 4rem;
+}
