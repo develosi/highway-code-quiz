@@ -171,3 +171,7 @@ h3 {
 .welcome-orange {
     color: #f5a511;
 }
+
+.play-button {
+    margin-top: 2rem;
+}
