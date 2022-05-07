@@ -42,3 +42,11 @@ This app was designed to work as a stand-alone app to help people brush up on th
 
 ## User Experience 
 
+### User Stories 
+
+#### First time visitor goals 
+
+* I want to take to play the quiz quickly on my phone at any time, anywhere.
+* I want the game to be functional and responsive to my device.
+* I want the game to be easy to understand and navigate.
+
