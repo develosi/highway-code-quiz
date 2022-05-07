@@ -199,3 +199,46 @@ HTML, CSS, Javascript
 
 * [Webpage Spell-Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related) - a google chrome extension that allows you to spell check your webpage.
 
+* Coolers - colour tool 
+
+* jestjs - Javascript testing tool
+
+---
+
+## Deployment & Local Development
+
+### Deployment
+
+The site is deployed using GitHub Pages - LINK TO LIVE SITE HERE *.
+
+To Deploy the site using GitHub Pages:
+
+* Login (or signup) to Github.
+* Go to the repository for this project, ******
+* Click the settings button.
+* Select 'Pages' in the left hand navigation menu.
+* From the source dropdown select main branch and press save.
+* The site has now been deployed, please note that this process may take a few minutes before the site goes live.
+
+### Local Development
+
+#### How to Fork
+
+To fork the repository:
+
+* Log in (or sign up) to Github.
+* Go to the repository for this project, *********
+* Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the repository:
+
+* Log in (or sign up) to GitHub.
+* Go to the repository for this project, ***********
+* Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+* Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+* Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+---
+
