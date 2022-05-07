@@ -143,3 +143,16 @@ IMAGE HERE OF END PAGE *
 The 404 error page displays the sites name as a title. There is a 404 error message along with a button taking you back to the home page when clicked on.
 
 IMAGE OF 404 ERROR PAGE HERE *
+
+#### Future Development
+
+In future development and implementations I would like to add the following:
+
+* Give users the option to select the amount of questions in their quiz, options of 20, 50 or 100 questions.
+* Add a larger database of more possible questions. At present there is only 20 possible questions, I would like to add a json file or my own API with a database of hundreds of possible questions.
+* Offer the ability for users to log in and record their scores. 
+* Offer social media sharing for scores so that players can easily share their score results on various platforms. 
+* Add more graphics and visual effects with the design to add a more immersive experience to the player. 
+* Add more questions that are not just text based but also show images and videos as these are now included in the current UK driving test. 
+* Offer links and information for players to help learn the Highway Code and help prepare for their driving test.
+* Look into the accessibility for people with colour blindness, adding symbols such as a tick or cross next to the answer when it is selected. 
