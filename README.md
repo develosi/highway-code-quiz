@@ -93,3 +93,11 @@ Wireframes were created using Balsamiq software for mobile, tablet and desktop.
 
 IMAGES GO HERE OF WIREFRAMES *
 
+### Features
+
+The game is made up of a home page, a games page, an end page and a 404 error page.
+
+All Pages on the website are responsive and have a favicon of the Traffic Light Logo:
+
+FAVICON IMAGE HERE *
+
