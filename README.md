@@ -44,9 +44,17 @@ This app was designed to work as a stand-alone app to help people brush up on th
 
 ### User Stories 
 
-#### First time visitor goals 
+#### First time Visitor Goals 
 
 * I want to take to play the quiz quickly on my phone at any time, anywhere.
 * I want the game to be functional and responsive to my device.
 * I want the game to be easy to understand and navigate.
 
+#### Returning Visitor Goals
+
+* I want a new set of questions each time I visit so I can revise and learn new areas of the Highway Code.
+
+#### Frequent Visitor Goals
+
+* I want to be able to quickly start playing a new game without the need to log in.
+* I want the game questions to be updated on a regular basis so that they are up to date and current with the latest version of the Highway Code.
