@@ -101,3 +101,12 @@ All Pages on the website are responsive and have a favicon of the Traffic Light 
 
 FAVICON IMAGE HERE *
 
+#### The Home Page
+
+The home page of the game displays the sites name 'Highway Code Quiz' as a title and then a container which holds a welcome message to the player along with an invite to start the quiz and play the game. 
+
+IMAGE HERE OF HOME PAGE SCREEN *
+
+The play button will take the user to the game page. 
+
+IMAGE HERE OF PLAY BUTTON *
