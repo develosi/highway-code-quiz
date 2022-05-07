@@ -132,3 +132,8 @@ Once a user has answered a question and the game proceeds to the next question t
 
 IMAGE HERE OF SCORE INCREASING *
 
+#### The End Page
+
+The end page displays the players score along with an invite message to play the game again. This is followed by two buttons, one taking the user to the home page and the other button starting a new game again with refreshed questions.
+
+IMAGE HERE OF END PAGE *
