@@ -242,3 +242,7 @@ To clone the repository:
 
 ---
 
+## Testing
+
+Please refer to [TESTING.md](TESTING.md) file for all testing completed.
+
