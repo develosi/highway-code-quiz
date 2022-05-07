@@ -156,3 +156,16 @@ In future development and implementations I would like to add the following:
 * Add more questions that are not just text based but also show images and videos as these are now included in the current UK driving test. 
 * Offer links and information for players to help learn the Highway Code and help prepare for their driving test.
 * Look into the accessibility for people with colour blindness, adding symbols such as a tick or cross next to the answer when it is selected. 
+
+### Accessibility
+
+I have been mindful to ensure that the website is as accessible as possible. The areas I have focused on:
+
+* Using semantic HTML and aria labels as much as possible.
+* Using a HUD section to help players keep track of results and progress in the game.
+* Choosing a simple easy to read font for the game with a bold style.
+* Ensuring that there is a strong colour contrast throughout the game.
+* Extensive A11y and Colour Blindness accessibility testing carried out, results of all testing is in TESTING.md file.
+
+LINK TO TESTING FILE HERE *
+
