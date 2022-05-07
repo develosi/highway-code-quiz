@@ -58,3 +58,21 @@ This app was designed to work as a stand-alone app to help people brush up on th
 
 * I want to be able to quickly start playing a new game without the need to log in.
 * I want the game questions to be updated on a regular basis so that they are up to date and current with the latest version of the Highway Code.
+
+---
+
+## Design
+
+### Colour Scheme
+
+I wanted to keep the colour scheme used on the game to be very minimal and take it's inspiration from the physical motorway and roadways. 
+
+The background is kept to a dark grey representing the grey asphalt on the roadways.
+
+I used the red, green and amber colours from the classic British traffic lights. This was used for the main logo and also the correct and incorrect answers while using amber as a highlight colour for certain sections. 
+
+The white was an obvious choice to contrast well against the dark grey 'asphalt' background and is supposed to represent the white road markings we see on our roads. 
+
+I was aware that using the colours red and green could be an issue for colour blindness. Taking this into consideration I made sure to add the scoreboard section to help players when see their score if they got a correct or incorrect answer. 
+
+IMAGE OF COLOUR SCHEME GOES HERE * 
