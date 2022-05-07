@@ -169,3 +169,33 @@ I have been mindful to ensure that the website is as accessible as possible. The
 
 LINK TO TESTING FILE HERE *
 
+---
+
+## Technologies Used
+
+### Languages Used
+
+HTML, CSS, Javascript
+
+### Frameworks, Libraries & Programs Used
+
+* [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
+
+* Jet Brains - Webstorm IDE - Integrated development environment.
+
+* [Github](https://github.com/) - For version control, save and store the files and deployment of site.
+
+* [Google Developer Tools](https://developers.google.com/web/tools) - Testing features, checking responsiveness and styling.
+
+* [TinyPNG](https://tinypng.com/) To compress images
+
+* [Favicon.io](https://favicon.io/) To create favicon.
+
+* [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+* DVLA site with test questions 
+
+* [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) - a google chrome extension to help check for accessibility issues.
+
+* [Webpage Spell-Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related) - a google chrome extension that allows you to spell check your webpage.
+
