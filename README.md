@@ -110,3 +110,25 @@ IMAGE HERE OF HOME PAGE SCREEN *
 The play button will take the user to the game page. 
 
 IMAGE HERE OF PLAY BUTTON *
+
+#### The Game Page
+
+On the game page you will be shown a question with four possible multiple choice answers. Each answer is also prefixed with a letter from A to D. 
+There is also a heads up display 'HUD' section at the top of the screen so players can keep track of what number question they are on and what their current score is. 
+
+IMAGE HERE OF GAME PAGE * 
+
+Once the user has selected their answer by clicking on it the answer container will either change colour to red if it is incorrect or green if correct.
+
+IMAGE HERE OF GREEN CORRECT ANSWER *
+
+IMAGE HERE OF RED INCORRECT ANSWER *
+
+After the user has selected an answer the game will proceed to the next question and the question number counter will increase till all ten questions are answered. 
+
+IMAGE HERE OF QUESTION NUMBER GOING UP *
+
+Once a user has answered a question and the game proceeds to the next question the score in the HUD section will increase if the previous answer was correct.
+
+IMAGE HERE OF SCORE INCREASING *
+
