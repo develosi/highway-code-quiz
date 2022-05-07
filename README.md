@@ -76,3 +76,13 @@ The white was an obvious choice to contrast well against the dark grey 'asphalt'
 I was aware that using the colours red and green could be an issue for colour blindness. Taking this into consideration I made sure to add the scoreboard section to help players when see their score if they got a correct or incorrect answer. 
 
 IMAGE OF COLOUR SCHEME GOES HERE * 
+
+### Typography
+
+Helvetica Bold was used throughout the game.
+
+I was looking for a font that closely matched the standard font used on the UK motorway and road signs and this worked well. 
+
+Ariel and Sans Serif was used as back up. 
+
+IMAGE HERE OF HELVETICA FONT *
