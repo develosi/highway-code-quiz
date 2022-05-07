@@ -14,6 +14,8 @@ The current questions in the app have been sourced from the free to use test que
 
 This app was designed to work as a stand-alone app to help people brush up on their Highway Code knowledge as well as potentially prepare for a DVLA Theory Test. 
 
+---
+
 ## Contents 
 
 * User Experience 
@@ -35,4 +37,8 @@ This app was designed to work as a stand-alone app to help people brush up on th
 * How To Clone
 * Testing 
 * Credits
+
+---
+
+## User Experience 
 
