@@ -137,3 +137,9 @@ IMAGE HERE OF SCORE INCREASING *
 The end page displays the players score along with an invite message to play the game again. This is followed by two buttons, one taking the user to the home page and the other button starting a new game again with refreshed questions.
 
 IMAGE HERE OF END PAGE *
+
+#### 404 Error Page
+
+The 404 error page displays the sites name as a title. There is a 404 error message along with a button taking you back to the home page when clicked on.
+
+IMAGE OF 404 ERROR PAGE HERE *
