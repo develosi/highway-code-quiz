@@ -246,3 +246,31 @@ To clone the repository:
 
 Please refer to [TESTING.md](TESTING.md) file for all testing completed.
 
+---
+
+## Credits
+
+### Code Used
+
+* I used [this You Tube tutorial]LINK TO VID by *** as the main structure for the game functionality. on YouTube by [James Q Quick]
+
+### Content
+
+All questions for the game are from the free to use mock test provided the UK DVLA, they provide 100 questions I used 20 of those for this project.
+Link here to question site ****
+
+All other content for the site, such as introduction and end messages were written by myself.
+
+### Media
+
+Favicon logo was designed and made by myself using Canva software - Link to Canva ****
+
+### Acknowledgments
+
+I would like to acknowledge the following people:
+
+* My Code Institute Mentor and class teacher 
+
+* My fellow class-mates  - For sharing all their struggles and accomplishments along the way with tackling Milestone project 2.
+
+* The Code Institute Slack channel - Thanks you to everyone that takes the time to share their tips and advice.
