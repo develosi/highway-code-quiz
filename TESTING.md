@@ -67,3 +67,28 @@ IMAGES HERE ***
 
 ---
 
+## MANUAL TESTING
+
+### Testing User Stories
+
+`First Time Visitors`
+
+| Goals | How are they achieved?                                                                                                                  |
+| :--- |:----------------------------------------------------------------------------------------------------------------------------------------|
+| I want to take to play the quiz quickly on my phone at any time, anywhere. | The Highway Code Quiz is designed in such a way that it is quick and easy to start a new game and is designed for mobile display first. |
+| I want the game to be functional and responsive to my device. | The site is designed to be fully responsive and work on any device.                                                                     |
+| I want the game to be easy to understand and navigate. | High contrast text and clearly marked buttons are used throughout the site for easy navigation.                                         |
+
+`Returning Visitors`
+
+|  Goals | How are they achieved?                                                                                                                                                       |
+| :--- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I want a new set of questions each time I visit so I can revise and learn new areas of the Highway Code. | Users will be provided with a new random selection of questions for each game. For proof of concept this project has a selection of just twenty questions that will be used. |
+
+`Frequent Visitors`
+
+| Goals | How are they achieved?                                                                                                                                                       |
+| :--- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I want to be able to quickly start playing a new game without the need to log in. | Users are able to start a new game without the need to log in or provide any details.                                                                                        |
+| I want the game questions to be updated on a regular basis so that they are up to date and current with the latest version of the Highway Code. | The game has questions taken from the latest version of the Highway Code theory test. Longer term these questions could be updated easily without affecting the game design. |
+
