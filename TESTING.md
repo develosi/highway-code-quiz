@@ -26,3 +26,14 @@ I have gone through each page using google chrome developer tools to ensure that
 
 ---
 
+## AUTOMATED TESTING
+
+### W3C Validator
+
+[W3C](https://validator.w3.org/) was used to validate the HTML on all pages. It was also used to validate the CSS file.
+
+* [index.html] IMAGE HERE - Passed.
+* [game.html] IMAGE HERE - Passed.
+* [end.html] IMAGE HERE - Passed.
+* [404.html] IMAGE HERE - Passed.
+* [style.css] IMAGE HERE - Passed, no errors found.
