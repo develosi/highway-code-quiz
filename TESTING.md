@@ -49,3 +49,21 @@ I have gone through each page using google chrome developer tools to ensure that
 
 ---
 
+### Lighthouse
+
+Google Lighthouse within the Chrome Developer Tools was used to test for performance, accessibility, best practices and SEO.
+
+### Desktop Results
+
+Results for the site based on desktop viewing.
+
+IMAGES HERE ***
+
+### Mobile Results
+
+Results for the site for mobile viewing. 
+
+IMAGES HERE ***
+
+---
+
