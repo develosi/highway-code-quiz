@@ -37,3 +37,15 @@ I have gone through each page using google chrome developer tools to ensure that
 * [end.html] IMAGE HERE - Passed.
 * [404.html] IMAGE HERE - Passed.
 * [style.css] IMAGE HERE - Passed, no errors found.
+
+---
+
+### JavaScript Validator
+
+[jshint](https://jshint.com/) was used to validate the JavaScript.
+
+* [game.js] IMAGE HERE - Passed with one warning. Double == used instead of strict equals. 
+* [end.js] IMAGE HERE - Passed.
+
+---
+
