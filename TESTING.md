@@ -57,13 +57,13 @@ Google Lighthouse within the Chrome Developer Tools was used to test for perform
 
 Results for the site based on desktop viewing.
 
-IMAGES HERE ***
+IMAGES HERE *****
 
 ### Mobile Results
 
 Results for the site for mobile viewing. 
 
-IMAGES HERE ***
+IMAGES HERE *****
 
 ---
 
