@@ -175,9 +175,11 @@ let questions = [
 ];
 
 //GAME FUNCTIONS
+// Sets max amount of questions to ten and score increment to one
 const CORRECT_BONUS = 1;
 const MAX_QUESTIONS = 10;
 
+// Resets game at start
 startGame = () => {
     questionCounter = 0;
     score = 0;
@@ -185,6 +187,7 @@ startGame = () => {
     getNewQuestion();
 };
 
+// Displays new questions and possible answers
 getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
@@ -206,6 +209,7 @@ getNewQuestion = () => {
     acceptingAnswers = true;
 };
 
+// Confirming if correct answer is selected
 choices.forEach((choice) => {
     choice.addEventListener('click', (e) => {
         if (!acceptingAnswers) return;
@@ -231,6 +235,7 @@ choices.forEach((choice) => {
     });
 });
 
+// Updates score in HUD section
 incrementScore = (num) => {
     score += num;
     scoreText.innerText = score;
