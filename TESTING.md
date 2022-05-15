@@ -92,3 +92,26 @@ IMAGES HERE *****
 | I want to be able to quickly start playing a new game without the need to log in. | Users are able to start a new game without the need to log in or provide any details.                                                                                        |
 | I want the game questions to be updated on a regular basis so that they are up to date and current with the latest version of the Highway Code. | The game has questions taken from the latest version of the Highway Code theory test. Longer term these questions could be updated easily without affecting the game design. |
 
+---
+
+### Full Testing
+
+Full testing was performed on the following devices:
+
+* Laptop:
+  * Macbook Pro 2020 13 inch screen
+  * Macbook Pro 2020 ext 27 inch monitor
+* Mobile Devices:
+  * iPhone 7 plus.
+  * iPhone 6.
+
+Each device tested the site using the following browsers:
+
+* Google Chrome
+* Safari
+* Firefox
+
+Additional testing was taken by friends and family on a variety of devices. 
+
+On the home page screen when on the physical iPhone 6 safari browser the top of the word 'Highway' cutoff from the top of the screen.
+While using chrome developer tools and emulating other various device screen sizes all sections of the homepage and game were visible and accessible. 
