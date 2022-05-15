@@ -145,4 +145,9 @@ While using chrome developer tools and emulating other various device screen siz
 | Play Again button      | Clicking on this button will return you to the start of the game page with a new game. | Clicked on the Play Again button.                                 | Taken to the game page to start a new game.              | Pass |
 | Go Home button         | Clicking on this button will take you back to the home page.                           | Clicked the Go Home button.                                       | Taken back to the home page.                             | Pass |
 
+`404 Error Page`
 
+| Feature               | Expected Outcome                                              | Testing Performed              | Result                                                              | Pass/Fail |
+|-----------------------|---------------------------------------------------------------|--------------------------------|---------------------------------------------------------------------| --- |
+| Button - hover effect | Button changes when hovered over with a dropshadow and moves. | Hover over button on the page. | The button is displayed with the correct styling when hovered over. | Pass |
+| Go Home button        | Takes the user back to the home page.                         | Clicked the button.            | Taken to the home page.                                             | Pass |
