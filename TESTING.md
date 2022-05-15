@@ -136,4 +136,13 @@ While using chrome developer tools and emulating other various device screen siz
 | Score counter                        | The score counter should begin at 0. Each time a correct answer is selected the score should increase by 1. If an incorrect answer is selected the score should remain the same. | Clicked a correct answer to check if the score increased. Clicked an incorrect answer to check the score stayed the same. | When a correct answer was selected the score increased by 1. When an incorrect score was selected the score stayed the same. | Pass |
 | Next question - becomes visible      | When an answer is clicked the next question should be displayed so the user can progress through the game till all 10 questions have been answered.                              | Clicked on an answer button.                                                                                              | The next question was displayed.                                                                                             | Pass |
 
+`End Page`
+
+| Feature                | Expected Outcome                                                                       | Testing Performed                                                 | Result                                                   | Pass/Fail |
+|------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------| --- |
+| Buttons - hover effect | All buttons change when hovered over with a dropshadow and move.                       | Hover over each button.                                           | Buttons displayed the correct styling when hovered over. | Pass |
+| Score displayed        | The 'You Scored' area should populate with the score you have achieved.                | I added my score as I played and compared to the score displayed. | The score displays correctly.                            | Pass |
+| Play Again button      | Clicking on this button will return you to the start of the game page with a new game. | Clicked on the Play Again button.                                 | Taken to the game page to start a new game.              | Pass |
+| Go Home button         | Clicking on this button will take you back to the home page.                           | Clicked the Go Home button.                                       | Taken back to the home page.                             | Pass |
+
 
