@@ -24,7 +24,7 @@ This app was designed to work as a stand-alone app to help people brush up on th
 * Colour Scheme 
 * Typography 
 * Wireframes 
-* Development Process
+* Development Build Process
 * Features 
 * The Home Page
 * The Game Page 
