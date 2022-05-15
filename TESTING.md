@@ -115,3 +115,12 @@ Additional testing was taken by friends and family on a variety of devices.
 
 On the home page screen when on the physical iPhone 6 safari browser the top of the word 'Highway' cutoff from the top of the screen.
 While using chrome developer tools and emulating other various device screen sizes all sections of the homepage and game were visible and accessible. 
+
+`Home Page`
+
+| Feature               | Expected Outcome                                                       | Testing Performed | Result                    | Pass/Fail |
+|-----------------------|------------------------------------------------------------------------| --- |---------------------------| --- |
+| Play Button           | Directs the user to the game page                                      | Clicked on button | Game page opens | Pass |
+| Button - hover effect | Play button should show drop shadow affect and move when hovered over. | Hover over each button on the page | Button displayed the correct styling when hovered over | Pass |
+
+
