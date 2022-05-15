@@ -24,6 +24,7 @@ This app was designed to work as a stand-alone app to help people brush up on th
 * Colour Scheme 
 * Typography 
 * Wireframes 
+* Development Process
 * Features 
 * The Home Page
 * The Game Page 
@@ -92,6 +93,14 @@ IMAGE HERE OF HELVETICA FONT *
 Wireframes were created using Balsamiq software for mobile, tablet and desktop.
 
 IMAGES GO HERE OF WIREFRAMES *
+
+### Development Build Process
+
+The build process of the game was completed in small incremental sections of code. 
+This can be seen in the git commits catalogued within the Github repository that can be found here:
+LINK TO REPO COMMITS
+
+Testing was also carried out during the build and all testing documentation can be found within the TESTING.MD file.
 
 ### Features
 
