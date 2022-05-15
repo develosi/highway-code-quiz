@@ -2,7 +2,7 @@
 
 Mock up image goes here **
 
-Visit the deployed site here: **
+Visit the deployed site here: ** https://develosi.github.io/highway-code-quiz/index.html
 
 Test your highway code knowledge and help prepare for your theory test by using the Highway Code Quiz App. 
 The Highway Code Quiz App is a simple easy to use quiz app consisting of ten quick questions written in the multiple choice style format as used by the DVLA for the official theory test. 
