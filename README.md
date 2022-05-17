@@ -104,7 +104,7 @@ The build process of the game was completed in small incremental sections.
 This can be observed in the git commits catalogued within the Github repository that can be found here:
 [Highway Code Quiz Repository Commits](https://github.com/develosi/highway-code-quiz/commits/main)
 
-Testing was also carried out during the build and all testing documentation can be found within the TESTING.MD file.
+Testing was carried out during the build, all testing documentation can be found at: [TESTING.md](TESTING.md)
 
 ### Features
 
