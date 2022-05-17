@@ -208,12 +208,12 @@ HTML, CSS, Javascript
 
 ### Deployment
 
-The site is deployed using GitHub Pages - LINK TO LIVE SITE HERE *.
+The site is deployed using GitHub Pages, live site can be found here: [Highway Code Quiz](https://develosi.github.io/highway-code-quiz/)
 
 To Deploy the site using GitHub Pages:
 
 * Login (or signup) to Github.
-* Go to the repository for this project, ******
+* Go to the repository for this project. [Highway Code Quiz Github Repository](https://github.com/develosi/highway-code-quiz)
 * Click the settings button.
 * Select 'Pages' in the left hand navigation menu.
 * From the source dropdown select main branch and press save.
