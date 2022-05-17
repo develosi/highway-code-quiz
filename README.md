@@ -112,7 +112,7 @@ The game is made up of a home page, a games page, an end page and a 404 error pa
 
 All Pages on the website are responsive and have a favicon of the Traffic Light Logo:
 
-![Highway Code Quiz Favicon|10x10](documentation/images/faviconImage.png) 
+![Highway Code Quiz Favicon](documentation/images/faviconImage.png) 
 
 #### The Home Page
 
@@ -168,9 +168,7 @@ I have been mindful to ensure that the website is as accessible as possible. The
 * Using a HUD section to help players keep track of results and progress in the game.
 * Choosing a simple easy to read font for the game with a bold style.
 * Ensuring that there is a strong colour contrast throughout the game.
-* Extensive A11y and Colour Blindness accessibility testing carried out, results of all testing is in TESTING.md file.
-
-LINK TO TESTING FILE HERE *
+* Extensive A11y and colour blindness accessibility testing carried out, results of all testing can be found at: [TESTING.md](TESTING.md).
 
 ---
 
