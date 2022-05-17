@@ -251,7 +251,7 @@ Please refer to [TESTING.md](TESTING.md) file for all testing completed.
 
 ### Code Used
 
-I used [this YouTube tutorial](https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx) by James Q Quick as the main structure and game functionality.
+I used this [YouTube tutorial](https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx) by James Q Quick for the main structure and game functionality.
 
 ### Content
 
