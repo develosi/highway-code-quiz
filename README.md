@@ -84,11 +84,11 @@ I was aware that using the colours red and green could be an issue for colour bl
 
 Helvetica Bold was used throughout the game.
 
-I was looking for a font that closely matched the standard font used on the UK motorway and road signs and this worked well. 
+I was looking for a font that closely matched the standard font used on the UK road signs and this worked well. 
 
 Ariel and Sans Serif was used as back up. 
 
-IMAGE HERE OF HELVETICA FONT *
+![Helvetica Bold Font Example](documentation/images/helveticaBoldFont.jpeg)
 
 ### Wireframes
 
