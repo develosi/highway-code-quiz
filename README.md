@@ -112,7 +112,7 @@ The game is made up of a home page, a games page, an end page and a 404 error pa
 
 All Pages on the website are responsive and have a favicon of the Traffic Light Logo:
 
-![Highway Code Quiz Favicon](documentation/images/faviconImage.png)
+![Highway Code Quiz Favicon|10x10](documentation/images/faviconImage.png) 
 
 #### The Home Page
 
@@ -120,14 +120,14 @@ The home page of the game displays the sites name 'Highway Code Quiz' as a title
 
 The play button will take the user to the game page. 
 
-![Highway Code Quiz Home Page](documentation/images/mobileHome.png)
+![Highway Code Quiz Home Page](documentation/images/desktopHome.png)
 
 #### The Game Page
 
 On the game page you will be shown a question with four possible multiple choice answers. Each answer is also prefixed with a letter from A to D. 
 There is also a heads up display 'HUD' section at the top of the screen so players can keep track of what number question they are on and what their current score is. 
 
-![Highway Code Quiz Game Page](documentation/images/mobileGame.png) 
+![Highway Code Quiz Game Page](documentation/images/desktopGame.png) 
 
 Once the user has selected their answer by clicking on it the answer container will either change colour to red if it is incorrect or green if correct.
 
@@ -137,15 +137,15 @@ Once a user has answered a question the game proceeds to the next question, the 
 
 #### The End Page
 
-The end page displays the players score along with an invite message to play the game again. This is followed by two buttons, one taking the user to the home page and the other button starting a new game again with refreshed questions.
+The end page displays the players score along with an invite message to play the game again. This is followed by two buttons, one taking the user to the home page and the other starting a new game again with refreshed questions.
 
-IMAGE HERE OF END PAGE *
+![Highway Code Quiz End Page](documentation/images/desktopEnd.png)
 
 #### 404 Error Page
 
-The 404 error page displays the sites name as a title. There is a 404 error message along with a button taking you back to the home page when clicked on.
+The 404 error page displays the site name as a title. There is a 404 error message along with a button taking you back to the home page when clicked on.
 
-IMAGE OF 404 ERROR PAGE HERE *
+![Highway Code Quiz 404 Page](documentation/images/desktopGame404.png)
 
 #### Future Development
 
