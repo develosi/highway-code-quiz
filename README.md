@@ -7,14 +7,14 @@ Visit the deployed site: [Highway Code Quiz](https://develosi.github.io/highway-
 Test your highway code knowledge and help prepare for your theory test by using the Highway Code Quiz App. 
 The Highway Code Quiz App is a simple easy to use quiz app consisting of ten quick questions. 
 
-This is written in the multiple choice style format as used by the DVLA for the official theory test. 
+This is written in the multiple choice style format used for the official theory test. 
 The app can be used just for fun or to help you revise while on the go to prepare for the types of questions that are asked on the official Theory Test. 
 
-Please note that this app has just been built for proof of concept and should not be used to actually revise for a real world DVLA Theory Test. 
+Please note that this app has just been built for proof of concept and should not be used to actually revise for a real world Driving Theory Test. 
 
-The current questions in the app have been sourced from the free to use test questions supplied by the DVLA on the free to use mock tests. These questions may not actually be used on any official Theory Test. 
+The current questions in the app have been sourced from the free to use mock test questions supplied by the DVSA and Department for Transport. These questions may not actually be used on any official Theory Test. 
 
-This app was designed to work as a stand-alone app to help people brush up on their Highway Code knowledge as well as potentially prepare for a DVLA Theory Test. 
+This app was designed to work as a stand-alone app to help people brush up on their Highway Code knowledge as well as potentially prepare for a Theory Test. 
 
 ---
 
@@ -182,27 +182,25 @@ HTML, CSS, Javascript
 
 * [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
 
-* Jet Brains - Webstorm IDE - Integrated development environment.
+* [Jet Brains - Webstorm IDE](https://www.jetbrains.com/webstorm/) - Integrated development environment.
 
 * [Github](https://github.com/) - For version control, save and store the files and deployment of site.
 
 * [Google Developer Tools](https://developers.google.com/web/tools) - Testing features, checking responsiveness and styling.
 
-* [TinyPNG](https://tinypng.com/) To compress images
+* [TinyPNG](https://tinypng.com/) - To compress images.
 
-* [Favicon.io](https://favicon.io/) To create favicon.
+* [Favicon.io](https://favicon.io/) - To create favicon.
 
-* [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+* [Am I Responsive?](http://ami.responsivedesign.is/) - To show the website run on a range of devices.
 
-* DVLA site with test questions 
+* [Techsini](https://techsini.com/multi-mockup/index.php) - Used to create mock up images of site on devices.
 
-* [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) - a google chrome extension to help check for accessibility issues.
+* [DVSA Driver and Vehicle Standards Agency](https://www.safedrivingforlife.info/free-practice-tests/) - Mock test questions provided by the DVSA on the Safe Driving for Life website
 
-* [Webpage Spell-Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related) - a google chrome extension that allows you to spell check your webpage.
+* [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) - A Google chrome extension to help check for accessibility issues.
 
-* Coolers - colour tool 
-
-* jestjs - Javascript testing tool
+* [Coolers](https://coolors.co/) - Colour scheme creation tool
 
 ---
 
@@ -264,7 +262,7 @@ All other content for the site, such as introduction and end messages were writt
 
 ### Media
 
-Favicon logo was designed and made by myself using Canva software - Link to Canva ****
+Favicon logo was designed and made by myself.
 
 ### Acknowledgments
 
