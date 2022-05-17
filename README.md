@@ -68,17 +68,17 @@ This app was designed to work as a stand-alone app to help people brush up on th
 
 ### Colour Scheme
 
-I wanted to keep the colour scheme used on the game to be very minimal and take it's inspiration from the physical motorway and roadways. 
+I wanted to keep the colour scheme used on the game to be very minimal and take it's inspiration from physical motorway and roadways in the UK. 
 
 The background is kept to a dark grey representing the grey asphalt on the roadways.
 
-I used the red, green and amber colours from the classic British traffic lights. This was used for the main logo and also the correct and incorrect answers while using amber as a highlight colour for certain sections. 
+I used the red, green and amber colours from the classic British traffic lights. This was used for the main logo and also the background for correct and incorrect answers. The amber is used as a highlight colour for other sections. 
 
-The white was an obvious choice to contrast well against the dark grey 'asphalt' background and is supposed to represent the white road markings we see on our roads. 
+The white was an obvious choice to contrast well against the dark grey 'asphalt' background and is supposed to represent the white markings we see on our roads. 
 
-I was aware that using the colours red and green could be an issue for colour blindness. Taking this into consideration I made sure to add the scoreboard section to help players when see their score if they got a correct or incorrect answer. 
+I was aware that using the colours red and green could be an issue for colour blindness. Taking this into consideration I made sure to add the scoreboard section to help players see their score update if they got a correct or incorrect answer. 
 
-IMAGE OF COLOUR SCHEME GOES HERE * 
+![Highway Code Quiz Colour Scheme](documentation/images/colourScheme.png) 
 
 ### Typography
 
