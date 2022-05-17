@@ -94,15 +94,9 @@ Ariel and Sans Serif was used as back up.
 
 Wireframes were created using Balsamiq software for mobile, tablet and desktop.
 
-![Desktop Home Page Wireframe](documentation/wireframes/wireframeDesktopHome.png)
-![Desktop Game Page Wireframe](documentation/wireframes/wireframeDesktopGame.png)
-![Desktop End Page Wireframe](documentation/wireframes/wireframeDesktopEnd.png)
-![Mobile Home Page Wireframe](documentation/wireframes/wireframeMobileHome.png)
-![Mobile Game Page Wireframe](documentation/wireframes/wireframeMobileGame.png)
-![Mobile End Wireframe](documentation/wireframes/wireframeMobileEnd.png)
-![Tablet Home Wireframe](documentation/wireframes/wireframeTabletHome.png)
-![Tablet Game Wireframe](documentation/wireframes/wireframeTabletGame.png)
-![Tablet End Wireframe](documentation/wireframes/wireframeTabletEnd.png)
+![Desktop Home Page Wireframe](documentation/wireframes/wireframeDesktopHome.png)![Desktop Game Page Wireframe](documentation/wireframes/wireframeDesktopGame.png)![Desktop End Page Wireframe](documentation/wireframes/wireframeDesktopEnd.png)
+![Mobile Home Page Wireframe](documentation/wireframes/wireframeMobileHome.png)![Mobile Game Page Wireframe](documentation/wireframes/wireframeMobileGame.png)![Mobile End Wireframe](documentation/wireframes/wireframeMobileEnd.png)
+![Tablet Home Wireframe](documentation/wireframes/wireframeTabletHome.png)![Tablet Game Wireframe](documentation/wireframes/wireframeTabletGame.png)![Tablet End Wireframe](documentation/wireframes/wireframeTabletEnd.png)
 
 ### Development Build Process
 
