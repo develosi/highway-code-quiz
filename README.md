@@ -226,7 +226,7 @@ To Deploy the site using GitHub Pages:
 To fork the repository:
 
 * Log in (or sign up) to Github.
-* Go to the repository for this project, *********
+* Go to the repository for this project. [Highway Code Quiz Github Repository](https://github.com/develosi/highway-code-quiz)
 * Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -234,7 +234,7 @@ To fork the repository:
 To clone the repository:
 
 * Log in (or sign up) to GitHub.
-* Go to the repository for this project, ***********
+* Go to the repository for this project. [Highway Code Quiz Github Repository](https://github.com/develosi/highway-code-quiz)
 * Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 * Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 * Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
@@ -251,12 +251,12 @@ Please refer to [TESTING.md](TESTING.md) file for all testing completed.
 
 ### Code Used
 
-* I used [this You Tube tutorial]LINK TO VID by *** as the main structure for the game functionality. on YouTube by [James Q Quick]
+I used [this YouTube tutorial](https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx) by James Q Quick as the main structure and game functionality.
 
 ### Content
 
-All questions for the game are from the free to use mock test provided the UK DVLA, they provide 100 questions I used 20 of those for this project.
-Link here to question site ****
+All questions for the game are from the free to use mock tests provided by the [DVSA Driver and Vehicle Standards Agency](https://www.safedrivingforlife.info/free-practice-tests/).
+They provide 100 questions I used 20 of those for this project.
 
 All other content for the site, such as introduction and end messages were written by myself.
 
@@ -268,8 +268,8 @@ Favicon logo was designed and made by myself.
 
 I would like to acknowledge the following people:
 
-* My Code Institute Mentor and class teacher 
+* My Code Institute Mentor and Class Teacher 
 
 * My fellow class-mates  - For sharing all their struggles and accomplishments along the way with tackling Milestone project 2.
 
-* The Code Institute Slack channel - Thanks you to everyone that takes the time to share their tips and advice.
+* The Code Institute Slack channel - Thanks to everyone that took the time to share their tips and advice.
