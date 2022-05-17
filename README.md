@@ -2,7 +2,7 @@
 
 ![The Highway Code Quiz shown on a variety of screen sizes](documentation/images/mockupLayout.png)
 
-Visit the deployed site: [The Highway Code Quiz](https://develosi.github.io/highway-code-quiz/) 
+Visit the deployed site: [Highway Code Quiz](https://develosi.github.io/highway-code-quiz/) 
 
 Test your highway code knowledge and help prepare for your theory test by using the Highway Code Quiz App. 
 The Highway Code Quiz App is a simple easy to use quiz app consisting of ten quick questions. 
@@ -20,7 +20,7 @@ This app was designed to work as a stand-alone app to help people brush up on th
 
 ## Contents 
 
-* User Experience 
+* [User Experience](#User-Experience) 
 * User Stories 
 * Design 
 * Colour Scheme 
@@ -38,7 +38,7 @@ This app was designed to work as a stand-alone app to help people brush up on th
 * Deployment
 * How To Fork 
 * How To Clone
-* Testing 
+* [Testing](#Testing) 
 * Credits
 
 ---
