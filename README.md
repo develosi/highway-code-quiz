@@ -21,19 +21,19 @@ This app was designed to work as a stand-alone app to help people brush up on th
 ## Contents 
 
 * [User Experience](#User-Experience) 
-* User Stories 
-* Design 
-* Colour Scheme 
-* Typography 
-* Wireframes 
-* Development Build Process
-* Features 
-* The Home Page
-* The Game Page 
-* The End Page 
-* 404 Error Page 
-* Future Development 
-* Accessibility 
+* [User Stories](#User-Stories) 
+* [Design](#Design) 
+* [Colour Scheme](#Colour-Scheme) 
+* [Typography](#Typography) 
+* [Wireframes](#Wireframes) 
+* [Development Build Process](#Development-Build-Process)
+* [Features](#Features) 
+* [The Home Page](#The-Home-Page)
+* [The Game Page](#The-Game-Page) 
+* [The End Page](#The-End-Page) 
+* [404 Error Page](#404-Error-Page) 
+* [Future Development](#Future-Development) 
+* [Accessibility](#Accessibility) 
 * Technologies Used 
 * Deployment
 * How To Fork 
