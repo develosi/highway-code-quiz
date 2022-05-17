@@ -94,11 +94,9 @@ Ariel and Sans Serif was used as back up.
 
 Wireframes were created using Balsamiq software for desktop, mobile and tablet.
 
-| Home                                                                              | Game                                                                              | End                                                                             |
-|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| ![Desktop Home Page Wireframe](documentation/wireframes/wireframeDesktopHome.png) | ![Desktop Game Page Wireframe](documentation/wireframes/wireframeDesktopGame.png) | ![Desktop End Page Wireframe](documentation/wireframes/wireframeDesktopEnd.png) |
-| ![Mobile Home Page Wireframe](documentation/wireframes/wireframeMobileHome.png)   | ![Mobile Game Page Wireframe](documentation/wireframes/wireframeMobileGame.png)   | ![Mobile End Page Wireframe](documentation/wireframes/wireframeMobileEnd.png)   |
-| ![Tablet Home Page Wireframe](documentation/wireframes/wireframeTabletHome.png)   | ![Tablet Game Page Wireframe](documentation/wireframes/wireframeTabletGame.png)   | ![Tablet End Page Wireframe](documentation/wireframes/wireframeTabletEnd.png)   |
+![Desktop Version Wireframes](documentation/wireframes/wireframesMergedDesktop.jpeg)
+![Mobile Version Wireframes](documentation/wireframes/wireframesMergedMobile.png)
+![Tablet Version Wireframes](documentation/wireframes/wireframesMergedTablet.png)
 
 ### Development Build Process
 
