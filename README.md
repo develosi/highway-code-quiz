@@ -34,12 +34,12 @@ This app was designed to work as a stand-alone app to help people brush up on th
 * [404 Error Page](#404-Error-Page) 
 * [Future Development](#Future-Development) 
 * [Accessibility](#Accessibility) 
-* Technologies Used 
-* Deployment
-* How To Fork 
-* How To Clone
+* [Technologies Used](#Technologies-Used) 
+* [Deployment](#Deployment)
+* [How to Fork](#How-to-Fork) 
+* [How to Clone](#How-to-Clone)
 * [Testing](#Testing) 
-* Credits
+* [Credits](#Credits)
 
 ---
 
