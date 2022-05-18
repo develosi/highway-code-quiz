@@ -10,7 +10,7 @@ The Highway Code Quiz App is a simple easy to use quiz app consisting of ten qui
 This is written in the multiple choice style format used for the official theory test. 
 The app can be used just for fun or to help you revise while on the go.
 
-Please note that this app has just been built for proof of concept and should not be used to actually revise for a real world Driving Theory Test. 
+Please note that this app has just been built for this project and for proof of concept. It should not be used to actually revise for a real world Driving Theory Test. 
 
 The current questions in the app have been sourced from the free to use mock test questions supplied by the DVSA and Department for Transport. These questions may not actually be used on any official Theory Test. 
 
