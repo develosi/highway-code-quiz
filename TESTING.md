@@ -161,9 +161,9 @@ While using chrome developer tools and emulating other various device screen siz
 
 ### Solved Bugs
 
-| No | Bug                                                                                 | How I solved the issue                                                                                                                                           |
+| No | Bug                                                                                | How I solved the issue                                                                                                                                           |
 |---|:-----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | Correct answers not getting registered.                                            | choice-text in css file was not set up to be 100% width of the div so it wasn't getting registered when clicked on outside of that area.                         |
+| 1 | Answers not getting registered when clicked on.                                    | choice-text in css file was not set up to be 100% width of the div so it wasn't getting registered when clicked on outside of that area.                         |
 | 2 | Game not going straight to end page after questions all answered.                  | The link was not set up correctly in the getNewQuestion function so the return location assigned was taking the user directly to the end page. I fixed the link. |
 | 3 | Game page not linking up correctly to the home page when clicking on Play button.  | Fixed the link address to open game page on Play button.                                                                                                         |
 | 4 | Question counter not displaying correct question number.                           | I had the question counter set up so it was starting at '1'. It should have been set up to start at '0'.                                                         |
