@@ -196,11 +196,11 @@ HTML, CSS, Javascript
 
 * [Techsini](https://techsini.com/multi-mockup/index.php) - Used to create mock up images of site on devices.
 
-* [DVSA Driver and Vehicle Standards Agency](https://www.safedrivingforlife.info/free-practice-tests/) - Mock test questions provided by the DVSA on the Safe Driving for Life website
+* [DVSA Driver and Vehicle Standards Agency](https://www.safedrivingforlife.info/free-practice-tests/) - Mock test questions provided by the DVSA on the Safe Driving for Life website.
 
 * [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) - A Google chrome extension to help check for accessibility issues.
 
-* [Coolers](https://coolors.co/) - Colour scheme creation tool
+* [Coolers](https://coolors.co/) - Colour scheme creation tool.
 
 ---
 
