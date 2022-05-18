@@ -42,9 +42,12 @@ I have gone through each page using google chrome developer tools to ensure that
 ### JavaScript Validator
 
 [jshint](https://jshint.com/) was used to validate the JavaScript.
+I used the built-in jshint and jslint that is installed within webstorm IDE. 
 
-* [game.js] IMAGE HERE - Passed with one warning. Double == used instead of strict equals. 
-* [end.js] IMAGE HERE - Passed.
+I get a warning for having '== instead of using ===' on line 224. 
+This is also logged in my Bugs report below. 
+The function does not work with strict equality '==='. 
+I decided to keep it as it is for now and with more time would have liked to have found an alternative solution for this.
 
 ---
 
@@ -56,13 +59,13 @@ Google Lighthouse within the Chrome Developer Tools was used to test for perform
 
 Results for the site based on desktop viewing.
 
-IMAGES HERE *****
+![Highway Code Quiz Lighthouse desktop results](documentation/images/lighthouseDesktopTest.png)
 
 ### Mobile Results
 
 Results for the site for mobile viewing. 
 
-IMAGES HERE *****
+![Highway Code Quiz Lighthouse mobile results](documentation/images/lighthouseMobileTest.png)
 
 ---
 
