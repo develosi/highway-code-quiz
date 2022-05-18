@@ -1,8 +1,8 @@
 # Highway Code Quiz -  Testing
 
-IMAGE HERE OF MOCK UP OF GAME SITE ****
+![The Highway Code Quiz shown on a variety of screen sizes](documentation/images/mockupLayout.png)
 
-Visit the deployed site: LINK HERE
+Visit the deployed site: [Highway Code Quiz](https://develosi.github.io/highway-code-quiz/)
 
 - - -
 
@@ -12,11 +12,10 @@ Visit the deployed site: LINK HERE
     * [W3C Validator](#W3C-Validator)
     * [JavaScript Validator](#JavaScript-Validator)
     * [Lighthouse](#Lighthouse)
-    * Jest Testing / automated 
 * [MANUAL TESTING](#MANUAL-TESTING)
     * [Testing User Stories](#Testing-User-Stories)
     * [Full Testing](#Full-Testing)
-    * Bugs 
+* [BUGS](#Bugs) 
 
 Testing was ongoing throughout the build. I utilised Chrome developer tools whilst building to pinpoint and troubleshoot any issues as I went along.
 
@@ -151,3 +150,27 @@ While using chrome developer tools and emulating other various device screen siz
 |-----------------------|---------------------------------------------------------------|--------------------------------|---------------------------------------------------------------------| --- |
 | Button - hover effect | Button changes when hovered over with a dropshadow and moves. | Hover over button on the page. | The button is displayed with the correct styling when hovered over. | Pass |
 | Go Home button        | Takes the user back to the home page.                         | Clicked the button.            | Taken to the home page.                                             | Pass |
+
+---
+
+## BUGS
+
+### Solved Bugs
+
+| No | Bug                                                                                 | How I solved the issue                                                                                                                                           |
+|---|:-----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Correct answers not getting registered.                                            | choice-text in css file was not set up to be 100% width of the div so it wasn't getting registered when clicked on outside of that area.                         |
+| 2 | Game not going straight to end page after questions all answered.                  | The link was not set up correctly in the getNewQuestion function so the return location assigned was taking the user directly to the end page. I fixed the link. |
+| 3 | Game page not linking up correctly to the home page when clicking on Play button.  | Fixed the link address to open game page on Play button.                                                                                                         |
+| 4 | Question counter not displaying correct question number.                           | I had the question counter set up so it was starting at '1'. It should have been set up to start at '0'.                                                         |
+| 5 | Prefix section of answers not being displayed correctly with inconsistent spacing. | I changed the padding to 'rem' so that 2.5rem was all around the prefix letter. This then made the padding the same on all device screen sizes.                  |
+
+### Known Unsolved Bugs
+
+* When viewing on mobile devices with a small screen the top of the main title gets cut off on some devices (known to be iPhone 6). The app is displayed well on virtual mobile screens of all sizes though it seems in real world some smaller device screens have issues. I should have adjusted the main title spacing to fix this.
+
+
+* JShint testing and built in debugging within Webstorm IDE states a strong warning for having a double equals '==' instead of a strict '===' within the code on line 224. If I had enough time I would have like to rewritten this function in another way so that '==' was not needed to be used to make it work.
+
+
+* Google chrome developer tools still gives an error for 'Permission-Policy header: Origin trial comntrolled feature not enabled. I have looked into this on multiple sources online and this seems to be an issue with hosting on Github pages. Github pages will; disable Googles 3rd party cookie alternative 'FLoc' which causes the error. I deciced to leave it as it is.
