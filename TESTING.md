@@ -31,11 +31,11 @@ I have gone through each page using google chrome developer tools to ensure that
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages. It was also used to validate the CSS file.
 
-* [index.html] IMAGE HERE - Passed.
-* [game.html] IMAGE HERE - Passed.
-* [end.html] IMAGE HERE - Passed.
-* [404.html] IMAGE HERE - Passed.
-* [style.css] IMAGE HERE - Passed, no errors found.
+* index.html - Passed.
+* game.html - Passed with warning for having possible misuse of aria labels in section for selecting answers as these are not strictly buttons. I decided to keep the aria labels in. 
+* end.html - Passed with 1 warning for having an empty heading in line 19. This data is pulled from the js file. 
+* 404.html - Passed.
+* style.css - Passed.
 
 ---
 
@@ -165,7 +165,7 @@ While using chrome developer tools and emulating other various device screen siz
 | 4 | Question counter not displaying correct question number.                           | I had the question counter set up so it was starting at '1'. It should have been set up to start at '0'.                                                         |
 | 5 | Prefix section of answers not being displayed correctly with inconsistent spacing. | I changed the padding to 'rem' so that 2.5rem was all around the prefix letter. This then made the padding the same on all device screen sizes.                  |
 
-### Known Unsolved Bugs
+### Known Unresolved Bugs
 
 * When viewing on mobile devices with a small screen the top of the main title gets cut off on some devices (known to be iPhone 6). The app is displayed well on virtual mobile screens of all sizes though it seems in real world some smaller device screens have issues. I should have adjusted the main title spacing to fix this.
 
