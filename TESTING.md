@@ -54,6 +54,7 @@ I decided to keep it as it is for now and with more time would have liked to hav
 ### Lighthouse
 
 Google Lighthouse within the Chrome Developer Tools was used to test for performance, accessibility, best practices and SEO.
+The game falls a bit short in the SEO area as headings in some sections were used when paragraphs would have been a better solution. 
 
 ### Desktop Results
 
@@ -75,11 +76,11 @@ Results for the site for mobile viewing.
 
 `First Time Visitors`
 
-| Goals | How are they achieved?                                                                                                                  |
-| :--- |:----------------------------------------------------------------------------------------------------------------------------------------|
-| I want to take to play the quiz quickly on my phone at any time, anywhere. | The Highway Code Quiz is designed in such a way that it is quick and easy to start a new game and is designed for mobile display first. |
-| I want the game to be functional and responsive to my device. | The site is designed to be fully responsive and work on any device.                                                                     |
-| I want the game to be easy to understand and navigate. | High contrast text and clearly marked buttons are used throughout the site for easy navigation.                                         |
+| Goals                                                              | How are they achieved?                                                                                                                  |
+|:-------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
+| I want to play the quiz quickly on my phone at any time, anywhere. | The Highway Code Quiz is designed in such a way that it is quick and easy to start a new game and is designed for mobile display first. |
+| I want the game to be functional and responsive to my device.      | The site is designed to be fully responsive and work on any device.                                                                     |
+| I want the game to be easy to understand and navigate.             | High contrast text and clearly marked buttons are used throughout the site for easy navigation.                                         |
 
 `Returning Visitors`
 
@@ -89,10 +90,10 @@ Results for the site for mobile viewing.
 
 `Frequent Visitors`
 
-| Goals | How are they achieved?                                                                                                                                                       |
-| :--- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| I want to be able to quickly start playing a new game without the need to log in. | Users are able to start a new game without the need to log in or provide any details.                                                                                        |
-| I want the game questions to be updated on a regular basis so that they are up to date and current with the latest version of the Highway Code. | The game has questions taken from the latest version of the Highway Code theory test. Longer term these questions could be updated easily without affecting the game design. |
+| Goals | How are they achieved?                                                                                                                                                                    |
+| :--- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I want to be able to quickly start playing a new game without the need to log in. | Users are able to start a new game without the need to log in or provide any details.                                                                                                     |
+| I want the game questions to be updated on a regular basis so that they are up to date and current with the latest version of the Highway Code. | The game has questions taken from the latest version of the Highway Code theory test. Longer term these questions could be updated easily without affecting the game design using an API. |
 
 ---
 
@@ -102,7 +103,7 @@ Full testing was performed on the following devices:
 
 * Laptop:
   * Macbook Pro 2020 13 inch screen
-  * Macbook Pro 2020 ext 27 inch monitor
+  * Macbook Pro 2020 external 27 inch monitor
 * Mobile Devices:
   * iPhone 7 plus.
   * iPhone 6.
