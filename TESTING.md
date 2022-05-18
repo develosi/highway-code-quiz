@@ -177,4 +177,4 @@ While using chrome developer tools and emulating other various device screen siz
 * JShint testing and built in debugging within Webstorm IDE states a strong warning for having a double equals '==' instead of a strict '===' within the code on line 224. If I had enough time I would have like to rewritten this function in another way so that '==' was not needed to be used to make it work.
 
 
-* Google chrome developer tools still gives an error for 'Permission-Policy header: Origin trial comntrolled feature not enabled. I have looked into this on multiple sources online and this seems to be an issue with hosting on Github pages. Github pages will; disable Googles 3rd party cookie alternative 'FLoc' which causes the error. I deciced to leave it as it is.
+* Google Chrome developer tools still gives an error for 'Permission-Policy header: Origin trial controlled feature not enabled'. I have looked into this on multiple sources online and this seems to be an issue with hosting on Github pages. Github pages will disable Googles 3rd party cookie alternative 'FLoc' which causes the error. I deciced to leave it as it is.
